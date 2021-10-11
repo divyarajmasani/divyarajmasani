@@ -1,4 +1,6 @@
-### Hi there 👋
+## Namaste 🙏
+
+I'm Divyaraj Masani 🤓, FrontEnd engineer with 5+ years of experience in building beautiful and robust solutions with WordPress. 
 
 <!--
 **divyarajmasani/divyarajmasani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
